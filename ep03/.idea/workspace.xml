@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35350953-2ca5-49b5-add0-7cc44b88ac57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="61e32987-5880-4ba8-b626-6bd7fb666194" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WRPGZdv3Dx4RoPiibd1AcK6Mql" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phptips\ep03\files" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35350953-2ca5-49b5-add0-7cc44b88ac57" name="Default Changelist" comment="" />
+      <created>1579109338958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579109338958</updated>
+      <workItem from="1579109340151" duration="2978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1696" y="439" width="447" height="261" key="ComposerInitDialogKey" timestamp="1579109353911">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1696" y="439" width="447" height="261" key="ComposerInitDialogKey/0.0.2560.1050@0.0.2560.1050" timestamp="1579109353911" />
+    <state x="1699" y="271" key="FileChooserDialogImpl" timestamp="1579112314170">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1699" y="271" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1579112314170" />
+    <state x="1702" y="340" key="NewPhpClassDialog" timestamp="1579109795157">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1702" y="340" key="NewPhpClassDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579109795157" />
+    <state x="1754" y="449" key="NewPhpFileDialog" timestamp="1579111026556">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1754" y="449" key="NewPhpFileDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579111026556" />
+    <state x="1421" y="172" key="SettingsEditor" timestamp="1579111186647">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1421" y="172" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1579111186647" />
+    <state x="1583" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1579110616370">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1583" y="231" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1579110616370" />
+  </component>
+</project>
