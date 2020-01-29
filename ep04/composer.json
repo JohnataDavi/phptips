@@ -1,0 +1,27 @@
+{
+  "name": "JohnataDavi/phptips004",
+  "description": "Rotas, Call Backs e Estrutura MVC com Router",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johnata Davi",
+      "email": "infojohnata@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/router": "1.0.*"
+  }
+}
