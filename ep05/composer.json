@@ -1,0 +1,29 @@
+{
+  "name": "JohnataDavi/phptips005",
+  "description": "Gerando Blog com Paginação de Resultados",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johnata Davi",
+      "email": "infojohnata@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "fzaninotto/faker": "1.8.*",
+    "coffeecode/datalayer": "1.1.*",
+    "coffeecode/paginator": "1.0.*"
+  }
+}
