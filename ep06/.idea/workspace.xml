@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="732fa568-6952-45b7-88fa-6c8d51756a73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="61e32987-5880-4ba8-b626-6bd7fb666194" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-client" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-facebook" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WgJRMjZRYXPNBAPPplXMjCqrON" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732fa568-6952-45b7-88fa-6c8d51756a73" name="Default Changelist" comment="" />
+      <created>1579565294888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579565294888</updated>
+      <workItem from="1579565296084" duration="4787000" />
+      <workItem from="1579632084009" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1696" y="442" width="447" height="261" key="ComposerInitDialogKey" timestamp="1579565317292">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1696" y="442" width="447" height="261" key="ComposerInitDialogKey/0.0.2560.1050@0.0.2560.1050" timestamp="1579565317292" />
+    <state x="1699" y="268" key="FileChooserDialogImpl" timestamp="1579632865020">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1699" y="268" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1579632865020" />
+    <state x="1754" y="453" key="NewPhpFileDialog" timestamp="1579566364732">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1754" y="453" key="NewPhpFileDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579566364732" />
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1579632094997">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579632094997" />
+    <state x="1583" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1579568342915">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1583" y="233" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1579568342915" />
+  </component>
+</project>
