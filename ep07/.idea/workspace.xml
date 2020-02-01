@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eeb4ae9-b03b-40c5-8d30-8c0aa2d1951e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="61e32987-5880-4ba8-b626-6bd7fb666194" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WiWP1Qlgl8t6VgdwPR43meUXJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phptips\ep07\theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phptips\ep07\theme\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eeb4ae9-b03b-40c5-8d30-8c0aa2d1951e" name="Default Changelist" comment="" />
+      <created>1579632867663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579632867663</updated>
+      <workItem from="1579632868842" duration="5065000" />
+      <workItem from="1579712276742" duration="3671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1627" y="120" key="#PHP" timestamp="1579639234790">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1627" y="120" key="#PHP/0.0.2560.1050@0.0.2560.1050" timestamp="1579639234790" />
+    <state x="1725" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1579714850543">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1725" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1050@0.0.2560.1050" timestamp="1579714850543" />
+    <state x="1696" y="439" width="447" height="261" key="ComposerInitDialogKey" timestamp="1579632950566">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1696" y="439" width="447" height="261" key="ComposerInitDialogKey/0.0.2560.1050@0.0.2560.1050" timestamp="1579632950566" />
+    <state x="1712" y="344" key="NewPhpClassDialog" timestamp="1579634271854">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1712" y="344" key="NewPhpClassDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579634271854" />
+    <state x="1754" y="449" key="NewPhpFileDialog" timestamp="1579713238164">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1754" y="449" key="NewPhpFileDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579713238164" />
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1579712278927">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1579712278927" />
+    <state x="1583" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1579714844963">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1583" y="231" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1579714844963" />
+  </component>
+</project>
