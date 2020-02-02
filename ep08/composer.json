@@ -1,0 +1,17 @@
+{
+  "name": "JohnataDavi/phptips007",
+  "description": "GERANDO MINIATURAS DE IMAGESN COM CROPPER",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johnata Davi",
+      "email": "infojohnata@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "coffeecode/cropper": "1.2.0",
+    "fzaninotto/faker": "1.8.*"
+  }
+}
