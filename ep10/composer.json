@@ -1,0 +1,16 @@
+{
+  "name": "JohnataDavi/phptips010",
+  "description": "UPLOAD DE IMAGENS E ARQUIVOS COM UPLOADER",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johnata Davi",
+      "email": "infojohnata@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "coffeecode/uploader": "1.0.*"
+  }
+}
